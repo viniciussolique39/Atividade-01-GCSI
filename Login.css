@@ -17,6 +17,7 @@
     font-family: sans-serif;
     color: #380B61;
     margin-left: 10%;
+    text-align: center;
 } 
 
 #check{
@@ -25,7 +26,7 @@
 
 /* Elementos de tag <fieldset>*/
 fieldset {
-    border: 0;
+    border-radius: 12px;
 }
 
 /* Elemento de tag <body> */
